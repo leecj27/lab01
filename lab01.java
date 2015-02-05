@@ -22,7 +22,7 @@ and 10! Guesses: " + counter);
 			else 
 			{
 				System.out.println("Try Again.\n");
-				counter--;
+//				counter--;
 			}
 		}
 
